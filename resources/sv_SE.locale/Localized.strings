@@ -1,0 +1,3 @@
+iw.component.com.idega.idegaweb.widget.date.Date.name=Widget - Date
+iw.component.com.idega.idegaweb.widget.date.WeekOfYear.name=Widget - Week of Year
+week_of_year.week=vecka {0}

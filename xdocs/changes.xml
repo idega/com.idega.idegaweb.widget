@@ -1,0 +1,21 @@
+<document>
+  <properties>
+    <title>idegaWeb Widget changes</title>
+    <author email="tryggvi@idega.com">Tryggvi Larusson</author>
+  </properties>
+  <body>
+  
+	<release version="3.1.1" date="2007-01-05">
+      <action dev="laddi" type="update">
+      	Translation fixes.
+      </action>
+    </release>
+
+	<release version="3.1.0" date="2005-06-19">
+      <action dev="tryggvil" type="update">
+      	Declaration of version for including in ePlatform release 3.1
+      </action>
+    </release>
+
+  </body>
+</document>
